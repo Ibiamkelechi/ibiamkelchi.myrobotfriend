@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ibiamkelchi.myrobotfriend/static/css/main.6debd848.css",
+    "main.js": "/ibiamkelchi.myrobotfriend/static/js/main.a61e5f15.js",
+    "static/media/SEGA.woff": "/ibiamkelchi.myrobotfriend/static/media/SEGA.1f01066dab3a3a4cafa0.woff",
+    "index.html": "/ibiamkelchi.myrobotfriend/index.html",
+    "main.6debd848.css.map": "/ibiamkelchi.myrobotfriend/static/css/main.6debd848.css.map",
+    "main.a61e5f15.js.map": "/ibiamkelchi.myrobotfriend/static/js/main.a61e5f15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6debd848.css",
+    "static/js/main.a61e5f15.js"
+  ]
+}
